@@ -1,6 +1,6 @@
 {
     "issuer": "https://token.actions.githubusercontent.com/ebalduf/oidc-test/main",
-    "jwks_uri": "https://token.actions.githubusercontent.com/ebalduf/oidc-test/main/jwks",
+    "jwks_uri": "https://token.actions.githubusercontent.com/ebalduf/oidc-test/main/.well-known/jwks",
     "subject_types_supported": [
         "public",
         "pairwise"
